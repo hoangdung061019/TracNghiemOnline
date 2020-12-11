@@ -1,0 +1,47 @@
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll.config
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.pdb
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.dll
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.xml
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.dll
+D:\Projects\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.pdb
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\PagedList.dll
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.dll
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\PagedList.xml
+D:\Projects\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.xml
+D:\Projects\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csprojResolveAssemblyReference.cache
+D:\Projects\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csproj.CoreCompileInputs.cache
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll.config
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.pdb
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.xml
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.xml
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.xml
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csproj.CoreCompileInputs.cache
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csproj.CopyComplete
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.dll
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.pdb
+C:\Users\Dung Hoang\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csprojAssemblyReference.cache
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll.config
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\DataLTK.pdb
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.xml
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.xml
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\bin\Debug\PagedList.Mvc.xml
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csprojAssemblyReference.cache
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.csproj.CopyComplete
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.dll
+C:\Users\Gladiator\Desktop\TracNghiemLTK\DataLTK\obj\Debug\DataLTK.pdb
